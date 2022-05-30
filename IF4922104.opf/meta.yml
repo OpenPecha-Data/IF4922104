@@ -1,0 +1,95 @@
+id: IF4922104
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:11:43.078436'
+last_modified: '2022-05-30T23:11:43.078442'
+parser: null
+source_metadata:
+  title: Shechen Gyaltsab Gyurme Pema Namgyal
+  language: de
+  description: 'Texts by and about Shechen Gyatsab Gyurme Pema Namgyal (zhe chen rgyal
+    tshab ''gyur med padma rnam rgyal, 1871–1926):'
+  volume:
+    f25BC:
+      title: Advice for Gelong Jampa Dargye
+      base_file: f25BC.txt
+      order: 1
+      parent: Advice
+    fAC9B:
+      title: A Prayer of Aspiration
+      base_file: fAC9B.txt
+      order: 2
+      parent: Aspiration Prayers
+    f734A:
+      title: Lamp Aspiration Prayer
+      base_file: f734A.txt
+      order: 3
+      parent: Aspiration Prayers
+    fAA23:
+      title: Biography of Shechen Gyaltsab Gyurme Pema Namgyal
+      base_file: fAA23.txt
+      order: 4
+      parent: Biography
+    f525C:
+      title: Brief Offering Prayer to Gesar
+      base_file: f525C.txt
+      order: 5
+      parent: Dharma Protectors
+    f3AA3:
+      title: 'Pacifying the Turmoil of the Mamos: A Concise Liturgy'
+      base_file: f3AA3.txt
+      order: 6
+      parent: Dharma Protectors
+    fAFFA:
+      title: Guru Yoga of the Great Omniscient One, Longchenpa
+      base_file: fAFFA.txt
+      order: 7
+      parent: Guru Yoga
+    f236D:
+      title: 'Swift Infusion of Blessings: A Guru Yoga based on Jamgön Mipham Gyatso'
+      base_file: f236D.txt
+      order: 8
+      parent: Guru Yoga
+    f35AF:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: f35AF.txt
+      order: 9
+      parent: Long Life Prayers
+    fCFFF:
+      title: Prayer for the Long Life of Shechen Rabjam Rinpoche
+      base_file: fCFFF.txt
+      order: 10
+      parent: Long Life Prayers
+    f4FB7:
+      title: A Prayer To Padmasambhava
+      base_file: f4FB7.txt
+      order: 11
+      parent: Prayers
+    f5354:
+      title: A Prayer to Amitāyus
+      base_file: f5354.txt
+      order: 12
+      parent: Prayers
+    f7527:
+      title: A Prayer to Mañjughoṣa
+      base_file: f7527.txt
+      order: 13
+      parent: Prayers
+    f7179:
+      title: A Prayer to the Vajradhara of Oḍḍiyāna
+      base_file: f7179.txt
+      order: 14
+      parent: Prayers
+    fF14B:
+      title: A Concise Feast Prayer
+      base_file: fF14B.txt
+      order: 15
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
